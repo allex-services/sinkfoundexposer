@@ -1,0 +1,21 @@
+{
+  "name": "allex_sinkfoundexposerservice",
+  "version": "0.1.0",
+  "description": "SinkFoundExposerService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_services/sinkfoundexposer.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "SinkFoundExposer"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
